@@ -1,3 +1,5 @@
 # github-achievements
 
-Hello GitHub! 👋
+Hello GitHub!
+
+My achievements journey
